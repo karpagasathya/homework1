@@ -6,12 +6,11 @@ Horiseon social solution services ia a digital marketing agency that specializes
 
 ## services
 
->search engine optimization
->online reputation management
->social media marketing
+* search engine optimization
+* online reputation management
+* social media marketing
 
 
+This digital marketing agency provide the users with visibility of their business website.  
 
-
-
-This digital marketing agency provide the users with visibility of their business website.   
+### license
