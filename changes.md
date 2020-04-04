@@ -7,7 +7,7 @@ Horiseon social solution services ia a digital marketing agency that specializes
 
 ## services
 
-* [search engine optimization](###search engine optimization)
+* [search engine optimization](search engine optimization)
 * [online reputation management](online reputation management)
 * [social media marketing](social media marketing)
 
@@ -27,4 +27,4 @@ Horiseon social solution services ia a digital marketing agency that specializes
 
 ### license
 
-**[MIT](/Users/sathya/coding/git-hub/homework1/License.txt)
+**[MIT](License.txt)
